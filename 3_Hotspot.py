@@ -75,7 +75,7 @@ st.markdown("""
 # ==========================================
 # 🔐 AI INITIALIZATION
 # ==========================================
-API_KEY = "AIzaSyCNT1doxoqbi8xJYFUn1c1a95jSovW_oHk"
+API_KEY = "AIzaSyC"
 genai.configure(api_key=API_KEY)
 model = genai.GenerativeModel("gemini-2.5-flash")
 
