@@ -83,8 +83,8 @@ st.markdown("""
 # ==============================
 # Note: For production, move these to Streamlit Secrets or a .env file
 CLIENT_ID = "f0216f7d-7d54-4fba-8703-5b9bfebb34c2"
-CLIENT_SECRET = "5rVlkK1hB0UDc6MCOp9s6sTq29OtPCw1"
-OPENROUTER_API_KEY = "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"
+CLIENT_SECRET = ""
+OPENROUTER_API_KEY = "sk"
 
 SENTINEL_PROCESS_URL = "https://services.sentinel-hub.com/api/v1/process"
 SENTINEL_TOKEN_URL = "https://services.sentinel-hub.com/oauth/token"
