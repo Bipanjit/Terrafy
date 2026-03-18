@@ -86,7 +86,7 @@ st.markdown("""
 # =========================
 # 🔐 GEMINI CONFIG
 # =========================
-GEMINI_API_KEY = "AIzaSyCNT1doxoqbi8xJYFUn1c1a95jSovW_oHk"
+GEMINI_API_KEY = "AIzaSyCNT1doxoq"
 MODEL = "gemini-2.5-flash"
 
 client = genai.Client(api_key=GEMINI_API_KEY)
