@@ -83,7 +83,7 @@ st.markdown("""
 # ==============================
 # 🔐 SYSTEM CREDENTIALS
 # ==============================
-API_KEY = "AIzaSyC3KJotknWSN2_gYCL2wI_nCzgSehtM648"
+API_KEY = "AIz"
 client = genai.Client(api_key=API_KEY)
 
 # ==============================
