@@ -2,11 +2,11 @@
    ⚙️ SYSTEM CONFIGURATION
    ========================================== */
 const AGRIVUE_URL = "http://localhost:8501";
-const GEMINI_API_KEY = "AIzaSyC3KJotknWSN2_gYCL2wI_nCzgSehtM648";
+const GEMINI_API_KEY = "AIzaSyC3KJotknWSN";
 const GEMINI_MODEL = "gemini-2.5-flash";
 const FLASK_BACKEND = "http://127.0.0.1:5000/";
 
-const NEWSDATA_API_KEY = "pub_98d15e002494493f824a036a860f748a";
+const NEWSDATA_API_KEY = "pub_98d15e0024944";
 const NEWSDATA_BASE_URL = "https://newsdata.io/api/1/news";
 
 /* ==========================================
